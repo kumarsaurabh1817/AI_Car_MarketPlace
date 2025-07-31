@@ -1,22 +1,18 @@
-# Full Stack AI Car Marketplace with Next JS, Supabase, Tailwind, Prisma, ArcJet, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/HyGi_SjQqV4
+# AI Car Marketplace 
 
-![Vehiql(1)](https://github.com/user-attachments/assets/dee04576-f30e-4ab8-af7d-f4633621379c)
+A full-stack AI-powered car marketplace built with Next.js, supporting user listings, car price estimation, secure user authentication, and seamless deployment.
 
-### Make sure to create a `.env` file with following variables -
+##  Features
 
-```
-DATABASE_URL=
-DIRECT_URL=
+- **Price Estimation AI**: Predict a fair market price for used cars based on features such as make, model, year, mileage, and vehicle images.
+- **User Management**: Sign up, log in, and manage listings with secure authentication (e.g. Clerk or Supabase Auth).
+- **Listings Catalog**: Browse, filter, and search for used cars with dynamic UI components.
+- **Image Upload**: Add images to listings with client-side previews and safe storage.
+- **Backend Stack**: Next.js frontend with Prisma ORM, user management (Supabase / Clerk), and image hosting (e.g. Cloudinary or Supabase Storage).
+- **Responsive UI**: Clean, accessible interface—built using Tailwind CSS or Shadcn UI.
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+## 🔗 Links
 
-GEMINI_API_KEY=
+- **🔗 Live Website**: [https://autoaimarketforu.netlify.app](https://ai-car-marketplace.vercel.app)
+- **💻 Source Code**: [GitHub Repository](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace.git)
 
-ARCJET_KEY=
-```
