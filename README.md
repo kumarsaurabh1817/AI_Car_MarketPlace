@@ -13,6 +13,6 @@ A full-stack AI-powered car marketplace built with Next.js, supporting user list
 
 ## 🔗 Links
 
-- **🔗 Live Website**: [https://autoaimarketforu.netlify.app](https://ai-car-marketplace.vercel.app)
+- **🔗 Live Website**: [https://autoaimarketforu.netlify.app](https://autoaimarketforu.netlify.app)
 - **💻 Source Code**: [GitHub Repository](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace.git)
 
