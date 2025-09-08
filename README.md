@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<a href="https://github.com/your-username/ai-car-marketplace">
+<a href="https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest">
 <img src="public/logo-white.svg" alt="AutoAI Market Logo" width="200" height="60">
 </a>
 <h3 align="center">AutoAI Market</h3>
@@ -10,6 +10,13 @@ AI-Powered Car Marketplace with Smart Search and Test Drive Booking
 <br/>
 </p>
 </div>
+
+## Contact
+
+**Project Link**: [https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest)
+
+**Live Demo**: [https://ai-car-market-place-latest.vercel.app/](https://ai-car-market-place-latest.vercel.app/)
+
 
 ## About The Project
 
@@ -207,16 +214,7 @@ ai-car-marketplace/
   - [ ] Insurance integration
   - [ ] Vehicle history reports
 
-See our [project board](https://github.com/your-username/ai-car-marketplace/projects/1) for detailed progress tracking.
 
-
-
-
-## Contact
-
-**Project Link**: [[https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest)]
-
-**Live Demo**: [https://ai-car-market-place-latest.vercel.app/](https://ai-car-market-place-latest.vercel.app/)
 
 
 <div align="center">
