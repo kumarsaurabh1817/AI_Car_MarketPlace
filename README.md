@@ -15,7 +15,7 @@ AI-Powered Car Marketplace with Smart Search and Test Drive Booking
 
 **Project Link**: [https://github.com/kumarsaurabh1817/AI_Car_MarketPlace](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace)
 
-**Live Demo**: [https://ai-car-market-place-latest.vercel.app/](https://ai-car-market-place-latest.vercel.app/)
+**Live Demo**: [https://ai-powered-car-market-place.vercel.app/](https://ai-powered-car-market-place.vercel.app/)
 
 
 ## About The Project
