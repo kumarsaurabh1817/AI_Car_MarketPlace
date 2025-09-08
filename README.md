@@ -216,7 +216,7 @@ See our [project board](https://github.com/your-username/ai-car-marketplace/proj
 
 **Project Link**: [[https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest)]
 
-**Live Demo**: [https://your-demo-url.vercel.app](https://your-demo-url.vercel.app)
+**Live Demo**: [https://ai-car-market-place-latest.vercel.app/](https://ai-car-market-place-latest.vercel.app/)
 
 
 <div align="center">
