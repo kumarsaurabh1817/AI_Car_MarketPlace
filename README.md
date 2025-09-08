@@ -8,12 +8,6 @@
 AI-Powered Car Marketplace with Smart Search and Test Drive Booking
 <br/>
 <br/>
-<a href="#about-the-project"><strong>Explore the docs »</strong></a>
-<br/>
-<br/>
-<a href="https://your-demo-url.vercel.app">View Demo</a>  
-<a href="https://github.com/your-username/ai-car-marketplace/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-<a href="https://github.com/your-username/ai-car-marketplace/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
 </p>
 </div>
 
@@ -66,8 +60,8 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/ai-car-marketplace.git
-   cd ai-car-marketplace
+   [git clone https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest.git](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest)
+   cd AI_Car_MarketPlace_Latest
    ```
 
 2. **Install dependencies**
@@ -215,73 +209,16 @@ ai-car-marketplace/
 
 See our [project board](https://github.com/your-username/ai-car-marketplace/projects/1) for detailed progress tracking.
 
-## Contributing
 
-We welcome contributions from the community! Here's how you can help:
 
-### How to Contribute
-
-1. **Fork the Project**
-2. **Create your Feature Branch**
-   ```sh
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Make your changes**
-4. **Run tests and linting**
-   ```sh
-   npm run lint
-   npm run build
-   ```
-5. **Commit your Changes**
-   ```sh
-   git commit -m 'Add some AmazingFeature'
-   ```
-6. **Push to the Branch**
-   ```sh
-   git push origin feature/AmazingFeature
-   ```
-7. **Open a Pull Request**
-
-### Development Guidelines
-
-- Follow the existing code style and conventions
-- Write meaningful commit messages
-- Add tests for new features
-- Update documentation as needed
-- Ensure all CI checks pass
-
-## License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 ## Contact
 
-**Project Maintainer**: Saurabh - [@your-twitter](https://twitter.com/your-username) - your-email@example.com
-
-**Project Link**: [https://github.com/your-username/ai-car-marketplace](https://github.com/your-username/ai-car-marketplace)
+**Project Link**: [[https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest)]
 
 **Live Demo**: [https://your-demo-url.vercel.app](https://your-demo-url.vercel.app)
 
-## Acknowledgments
-
-Special thanks to the following resources and libraries that made this project possible:
-
-- [Next.js Documentation](https://nextjs.org/docs) - The React framework for production
-- [Prisma](https://www.prisma.io/) - Next-generation ORM for Node.js and TypeScript
-- [Clerk](https://clerk.com/) - Complete user management platform
-- [shadcn/ui](https://ui.shadcn.com/) - Beautiful and accessible UI components
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [Supabase](https://supabase.com/) - Open source Firebase alternative
-- [Lucide React](https://lucide.dev/) - Beautiful and consistent icon library
-- [React Hook Form](https://react-hook-form.com/) - Performant forms with easy validation
-- [Date-fns](https://date-fns.org/) - Modern JavaScript date utility library
-- [Sonner](https://sonner.emilkowal.ski/) - Opinionated toast component for React
-
----
 
 <div align="center">
-  <p>Made with ❤️ by the AutoAI Market team</p>
-  <p>
-    <a href="#about-the-project">Back to top ↑</a>
-  </p>
+  <p>Made By Saurabh Kumar</p>
 </div>
