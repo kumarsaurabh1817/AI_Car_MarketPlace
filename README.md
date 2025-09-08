@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<a href="https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest">
+<a href="https://github.com/kumarsaurabh1817/AI_Car_MarketPlace">
 <img src="public/logo-white.svg" alt="AutoAI Market Logo" width="200" height="60">
 </a>
 <h3 align="center">AutoAI Market</h3>
@@ -13,7 +13,7 @@ AI-Powered Car Marketplace with Smart Search and Test Drive Booking
 
 ## Contact
 
-**Project Link**: [https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest)
+**Project Link**: [https://github.com/kumarsaurabh1817/AI_Car_MarketPlace](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace)
 
 **Live Demo**: [https://ai-car-market-place-latest.vercel.app/](https://ai-car-market-place-latest.vercel.app/)
 
@@ -67,7 +67,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```sh
-   [git clone https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest.git](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace_Latest)
+   [git clone https://github.com/kumarsaurabh1817/AI_Car_MarketPlace.git](https://github.com/kumarsaurabh1817/AI_Car_MarketPlace)
    cd AI_Car_MarketPlace_Latest
    ```
 
